@@ -1,0 +1,296 @@
+[
+    {
+        "id": 0,
+        "verification": false,
+        "tag":"YP7003C",
+        "instrumentos":[""],
+        "nwv": ["23kgf/cm2"]
+    },
+    {
+        "id": 1,
+        "verification": false,
+        "tag":"YP7003B",
+        "instrumentos":[""],
+        "nwv": ["23 kgf/cm2"]
+    },
+    {
+        "id": 2,
+        "verification": false,
+        "tag":"YP7003A",
+        "instrumentos":[""],
+        "nwv":["23 kgf/cm2"]
+    },
+    {
+        "id": 3,
+        "verification": false,
+        "tag":"YP7004A",
+        "instrumentos":["kgf/cm2"],
+        "nwv": [12] 
+    },
+    {
+        "id": 4,
+        "verification": false,
+        "tag":"YP7004B",
+        "instrumentos":[""],
+        "nwv": ["12kgf/cm2"] 
+    },
+    {
+        "id": 5,
+        "verification": false,
+        "tag":"YP7005A",
+        "instrumentos":["kgf/cm2"],
+        "nwv": ["1.5kgf/cm2"] 
+    },
+    {
+        "id": 6,
+        "verification": false,
+        "tag":"YP7005B",
+        "instrumentos":[""],
+        "nwv": ["1.5kgf/cm2"] 
+    },
+    {
+        "id": 7,
+        "verification": false,
+        "tag":"Temp. Coletor",
+        "instrumentos":["°C"],
+        "nwv": ["0 - 150"] 
+    },
+    {
+        "id": 8,
+        "verification": false,
+        "tag":"YP7006A",
+        "instrumentos":["Antes", "Após", "Filtro"],
+        "nwv": ["0 - 140kgf/cm2", "0 - 140kgf/cm2", "0 - 7kgf/cm2"]
+    },
+    {
+        "id": 9,
+        "verification": false,
+        "tag":"YP7006B",
+        "instrumentos":["Antes", "Após", "Filtro"],
+        "nwv":  ["0 - 140kgf/cm2", "0 - 140kgf/cm2", "0 - 7kgf/cm2"]
+    },
+    {
+        "id": 10,
+        "verification": false,
+        "tag":"YP7006C",
+        "instrumentos":["Antes", "Após", "Filtro"],
+        "nwv":  ["0 - 140kgf/cm2", "0 - 140kgf/cm2", "0 - 7kgf/cm2"]
+    },
+    {
+        "id": 11,
+        "verification": false,
+        "tag":"NÍVEL COLETOR",
+        "instrumentos":[""],
+        "nwv": ["50%"]
+    },
+    {
+        "id": 12,
+        "verification": false,
+        "tag":"COLETOR",
+        "instrumentos":[""],
+        "nwv": ["0kgf/cm2"]
+    },
+    {
+        "id": 13,
+        "verification": false,
+        "tag":"TEMP. DESAERADOR",
+        "instrumentos":[""],
+        "nwv": ["100°C"]
+    },
+    {
+        "id": 14,
+        "verification": false,
+        "tag":"ÁGUA DESAERADOR",
+        "instrumentos":[""],
+        "nwv": ["0.4kgf/cm2"]
+    },
+    {
+        "id": 15,
+        "verification": false,
+        "tag":"PRESSÃO DESAERADOR",
+        "instrumentos":[""],
+        "nwv": ["0.4kgf/cm2"]
+    },
+    {
+        "id": 16,
+        "verification": false,
+        "tag":"NÍVEL DESAERADOR",
+        "instrumentos":[""],
+        "nwv": ["62%"]
+    },
+    {
+        "id": 17,
+        "verification": false,
+        "tag":"RETORNO FCC",
+        "instrumentos":[""],
+        "nwv": ["6kgf/cm2"]
+    },
+    {
+        "id": 18,
+        "verification": true,
+        "tag":"YP7003C BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    }, 
+    {
+        "id": 19,
+        "verification": true,
+        "tag":"YP7003B BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },   
+    {
+        "id": 20,
+        "verification": true,
+        "tag":"YP7003A TURBINA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 21,
+        "verification": true,
+        "tag":"YP7003A BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },  
+    {
+        "id": 22,
+        "verification": true,
+        "tag":"YP7004A BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },  
+    {
+        "id": 23,
+        "verification": true,
+        "tag":"YP7004B BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },  
+    {
+        "id": 24,
+        "verification": true,
+        "tag":"YP7004B TURBINA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },   
+    {
+        "id": 25,
+        "verification": true,
+        "tag":"YP7005A BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },   
+    {
+        "id": 26,
+        "verification": true,
+        "tag":"YP7005B TURBINA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },   
+    {
+        "id": 27,
+        "verification": true,
+        "tag":"YP7005B BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 28,
+        "verification": true,
+        "tag":"YP7006A BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 29,
+        "verification": true,
+        "tag":"YP7006C BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 30,
+        "verification": true,
+        "tag":"YP7006B BOMBA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 31,
+        "verification": true,
+        "tag":"YP7006B TURBINA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 32,
+        "verification": true,
+        "tag":"YF7005 TURBINA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 33,
+        "verification": true,
+        "tag":"YF7006 TURBINA",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 34,
+        "verification": true,
+        "tag":"MÓDULO A",
+        "instrumentos":["Aberto", "Fechado"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 35,
+        "verification": true,
+        "tag":"MÓDULO B",
+        "instrumentos":["Aberto", "Fechado"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 36,
+        "verification": true,
+        "tag":"MÓDULO C",
+        "instrumentos":["Aberto", "Fechado"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 37,
+        "verification": true,
+        "tag":"MÓDULO D",
+        "instrumentos":["Aberto", "Fechado"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 38,
+        "verification": true,
+        "tag":"YF7005",
+        "instrumentos":["Operando", "Parado"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 39,
+        "verification": true,
+        "tag":"YF7006",
+        "instrumentos":["Operando", "Parado"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 40,
+        "verification": true,
+        "tag":"YF7007",
+        "instrumentos":["Operando", "Parado"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 41,
+        "verification": true,
+        "tag":"YF7008",
+        "instrumentos":["Operando", "Parado"],
+        "nwv": ["-", "-"]
+    }
+]

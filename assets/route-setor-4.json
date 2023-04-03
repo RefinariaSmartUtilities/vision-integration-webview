@@ -1,0 +1,149 @@
+[
+    {
+        "id": 0,
+        "verification": false,
+        "tag":"P501B",
+        "instrumentos":[""],
+        "nwv": ["3kgf/cm2 - mmHg"]
+    },
+    {
+        "id": 1,
+        "verification": false,
+        "tag":"P505C",
+        "instrumentos":["Recalque", "Sucção"],
+        "nwv": ["0.5kgf/cm2 - mmHg", "-500kgf/cm2 - mmHg"]
+    },
+    {
+        "id": 2,
+        "verification": false,
+        "tag":"P501D",
+        "instrumentos":["Recalque", "Sucção"],
+        "nwv": ["0.5kgf/cm2 - mmHg", "-500kgf/cm2 - mmHg"]
+    },
+    {
+        "id": 3,
+        "verification": false,
+        "tag":"P501A",
+        "instrumentos":[""],
+        "nwv": ["4.5kgf/cm2 - mmHg"]
+    },
+    {
+        "id": 4,
+        "verification": false,
+        "tag":"P501C",
+        "instrumentos":["Bomba", "Painel"],
+        "nwv": ["4kgf/cm2 - mmHg", "80°C"]
+    },
+    {
+        "id": 5,
+        "verification": false,
+        "tag":"YC1501",
+        "instrumentos":["Temp. saída 1", "Pressão água exausta", "Temp. entrada 2", "Temp. saída 2", "Pressão óleo", "Temp. Óleo", "Pressão descarga"],
+        "nwv": ["125°C", "3kgf/cm2", "40°C", "112°C", "3.2 BAR", "40°C","5kgf/cm2"]
+    },
+    {
+        "id": 6,
+        "verification": false,
+        "tag":"YP1001",
+        "instrumentos":[""],
+        "nwv": ["8kgf/cm2"]
+    },
+    {
+        "id": 7,
+        "verification": false,
+        "tag":"Nível canal",
+        "instrumentos":[""],
+        "nwv": ["100cm"]
+    },
+    {
+        "id": 8,
+        "verification": false,
+        "tag":"P506",
+        "instrumentos":[""],
+        "nwv": ["4kgf/cm2 - mmHg"]
+    },
+    {
+        "id": 9,
+        "verification": false,
+        "tag":"TQ Diesel",
+        "instrumentos":["A", "B"],
+        "nwv": ["500 - 1000L", "500 - 1000L"]
+    },
+    {
+        "id": 10,
+        "verification": true,
+        "tag":"P501B",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 11,
+        "verification": true,
+        "tag":"P503",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 12,
+        "verification": true,
+        "tag":"P503A",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 13,
+        "verification": true,
+        "tag":"P503B",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 14,
+        "verification": true,
+        "tag":"P501C",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 15,
+        "verification": true,
+        "tag":"P503",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 16,
+        "verification": true,
+        "tag":"P505C/D",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 17,
+        "verification": true,
+        "tag":"Telas limpas",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 18,
+        "verification": true,
+        "tag":"P503/A/B",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 19,
+        "verification": true,
+        "tag":"Pressão de combate a incêndio",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 20,
+        "verification": true,
+        "tag":"Apara",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    }
+]

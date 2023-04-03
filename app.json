@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Smart Utilities",
+    "slug": "dataAquisitionApp",
+    "version": "1.0.0",
+    "icon":"./assets/icon.png",
+    "orientation": "portrait",
+    
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2B7032"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2B7032"
+      },
+      "package": "com.emilly.lamotte.dataAquisitionApp"
+    },
+    "web": {}
+  }
+}

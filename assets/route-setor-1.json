@@ -1,0 +1,275 @@
+[
+    {
+        "id": 0,
+        "verification": false,
+        "tag":"YP7001A",
+        "instrumentos":[""],
+        "nwv": ["8 kgf/cm2"]
+    },
+    {
+        "id": 1,
+        "verification": false,
+        "tag":"YP7001B",
+        "instrumentos":[""],
+        "nwv": ["5.5 kgf/cm2"]
+    },
+    {
+        "id": 2,
+        "verification": false,
+        "tag":"Diferencial Areia",
+        "instrumentos":[""],
+        "nwv": ["Máximo 2 kgf/cm2"] 
+    },
+    {
+        "id": 3,
+        "verification": false,
+        "tag":"Diferencial Carvão",
+        "instrumentos":[""],
+        "nwv": ["Máximo 2 kgf/cm2"] 
+    },
+    {
+        "id": 4,
+        "verification": false,
+        "tag":"P-403C RECALQUE",
+        "instrumentos":[""],
+        "nwv": ["8 kgf/cm2"]
+    },
+    {
+        "id": 5,
+        "verification": false,
+        "tag":"P-403C SUCÇÃO",
+        "instrumentos":[""],
+        "nwv": ["-300 kgf/cm2"]
+    },
+    {
+        "id": 6,
+        "verification": false,
+        "tag":"P-403D RECALQUE",
+        "instrumentos":[""],
+        "nwv": ["7.3 kgf/cm2"] 
+    },
+    {
+        "id": 7,
+        "verification": false,
+        "tag":"P-403D SUCÇÃO",
+        "instrumentos":[""],
+        "nwv": ["-500 kgf/cm2"]
+    },
+    {
+        "id": 8,
+        "verification": false,
+        "tag":"P-403A",
+        "instrumentos":[""],
+        "nwv": ["5 kgf/cm2"]
+    },
+    {
+        "id": 9,
+        "verification": false,
+        "tag":"Após Vaso Catiônico",
+        "instrumentos":[""],
+        "nwv": ["0.6 kgf/cm2"] 
+    },
+    {
+        "id": 10,
+        "verification": false,
+        "tag":"P-409 A",
+        "instrumentos":[""],
+        "nwv": ["2.9 kgf/cm2"]
+    },
+    {
+        "id": 11,
+        "verification": false,
+        "tag":"P-409 B",
+        "instrumentos":[""],
+        "nwv": ["2.9 kgf/cm2"]
+    },
+    {
+        "id": 12,
+        "verification": false,
+        "tag":"Vazão da Desmi A",
+        "instrumentos":[""],
+        "nwv": ["17 m3/h"] 
+    },
+    {
+        "id": 13,
+        "verification": false,
+        "tag":"Após Filtro",
+        "instrumentos":[""],
+        "nwv": ["1.6 - 2.5 kgf/cm2"] 
+    },
+    {
+        "id": 14,
+        "verification": false,
+        "tag":"Após Vaso Aniônico",
+        "instrumentos":[""],
+        "nwv": ["0.8 - 1.6 kgf/cm2"]
+    },
+    {
+        "id": 15,
+        "verification": false,
+        "tag":"Tanque NaOH",
+        "instrumentos":[""],
+        "nwv": ["cm"] 
+    },
+    {
+        "id": 16,
+        "verification": false,
+        "tag":"Tanque H2S04",
+        "instrumentos":[""],
+        "nwv":["cm"] 
+    },
+    {
+        "id": 17,
+        "verification": false,
+        "tag":"Cundutivímetro",
+        "instrumentos":[""],
+        "nwv": ["2 - 5 MS/cm2"] 
+    },
+    {
+        "id": 18,
+        "verification": false,
+        "tag":"YP-7002 A",
+        "instrumentos":[""],
+        "nwv": ["8.8 kgf/cm2"] 
+    },
+    {
+        "id": 19,
+        "verification": false,
+        "tag":"YP-7002 B",
+        "instrumentos":[""],
+        "nwv": ["9 kgf/cm2"]
+    },
+    {
+        "id": 20,
+        "verification": false,
+        "tag":"Após Leito Misto",
+        "instrumentos":[""],
+        "nwv": ["0.5 kgf/cm2"]
+    },
+    {
+        "id": 21,
+        "verification": false,
+        "tag":"Tanque Estoque",
+        "instrumentos":[""],
+        "nwv": ["90%"]
+    },
+    {
+        "id": 22,
+        "verification": false,
+        "tag":"Retorno Pileta - Pressão",
+        "instrumentos":[""],
+        "nwv": ["0.6 - 0.8 kgf/cm2"]
+    },
+    {
+        "id": 23,
+        "verification": false,
+        "tag":"Retorno Pileta - Temperatura",
+        "instrumentos":[""],
+        "nwv": ["20 - 30 °C"]
+    },
+    {
+        "id": 24,
+        "verification": false,
+        "tag":"Pileta",
+        "instrumentos":[""],
+        "nwv": ["15 - 35 °C"]
+    },
+    {
+        "id": 25,
+        "verification": false,
+        "tag":"Nível Pileta",
+        "instrumentos":[""],
+        "nwv": ["65 - 75 cm"]
+    },
+    {
+        "id": 26,
+        "verification": true,
+        "tag":"YP7001A",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 27,
+        "verification": true,
+        "tag":"YP7001B",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 28,
+        "verification": true,
+        "tag":"P-403A Turbina",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 29,
+        "verification": true,
+        "tag":"P-403A Bomba",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 30,
+        "verification": true,
+        "tag":"P-403C Bomba",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 31,
+        "verification": true,
+        "tag":"P-403D Bomba",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 32,
+        "verification": true,
+        "tag":"P-409 A Bomba",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 33,
+        "verification": true,
+        "tag":"P-409 B Bomba",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 34,
+        "verification": true,
+        "tag":"YP-7002 A Bomba",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 35,
+        "verification": true,
+        "tag":"YP-7002 B Bomba",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 36,
+        "verification": true,
+        "tag":"YP-7002 B Turbina",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 37,
+        "verification": true,
+        "tag":"YF7010",
+        "instrumentos":["Operando", "Parado"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 38,
+        "verification": true,
+        "tag":"Filtros Piletas",
+        "instrumentos":["Limpo", "Sujo"],
+        "nwv": ["-", "-"]
+    }  
+]

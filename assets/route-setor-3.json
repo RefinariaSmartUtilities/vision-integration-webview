@@ -1,0 +1,177 @@
+[
+    {
+        "id": 0,
+        "verification": false,
+        "tag":"YP408",
+        "instrumentos":[""],
+        "nwv": ["2.5kgf/cm2"]
+    },
+    {
+        "id": 1,
+        "verification": false,
+        "tag":"YC1502",
+        "instrumentos":["Temp. saída 1","Pressão água exausta","Temp entrada 2", "Temp. saída 2", "Pressão Óleo", "Temp. Óleo", "Pressão descarga"],
+        "nwv": ["125°C", "3kgf/cm2"," 40°C", "112°C", "3.2 BAR"," 40°C", "5kgf/cm2"]
+    },
+    {
+        "id": 2,
+        "verification": false,
+        "tag":"YC1501",
+        "instrumentos":["Temp. saída 1","Pressão água exausta","Temp entrada 2", "Temp. saída 2", "Pressão Óleo", "Temp. Óleo", "Pressão descarga"],
+        "nwv": ["125°C", "3kgf/cm2"," 40°C", "112°C", "3.2 BAR"," 40°C", "5kgf/cm2"]
+    },
+    {
+        "id": 3,
+        "verification": false,
+        "tag":"P407",
+        "instrumentos":[""],
+        "nwv": ["4.9kgf/cm2"]
+    },
+    {
+        "id": 4,
+        "verification": false,
+        "tag":"YC1503",
+        "instrumentos":["Tanque", "Descarga", "Temp. Água Entrada", "Temmp. Água Saída", "Temp. Óleo", "TQ Diesel"],
+        "nwv": ["5.2kgf/cm2","5kgf/cm2", "20°C", "35°C", "120°C", "500L"]
+    },
+    {
+        "id": 5,
+        "verification": false,
+        "tag":"Secador YME1504",
+        "instrumentos":[""],
+        "nwv": ["0.3kgf/cm2"]
+    },
+    {
+        "id": 6,
+        "verification": false,
+        "tag":"YC1504",
+        "instrumentos":["Pressão descarga", "Temp Óleo", "Vazão"],
+        "nwv": ["7.5kgf/cm2"," 73°C", "800m3/h"]
+    },
+    {
+        "id": 7,
+        "verification": false,
+        "tag":"YD1501",
+        "instrumentos":[""],
+        "nwv": ["7.5kgf/cm2"]
+    },
+    {
+        "id": 8,
+        "verification": false,
+        "tag":"YD1502",
+        "instrumentos":["Pressão", "Vazão"],
+        "nwv": ["4.6kgf/cm2", "650m3/h"]
+    },
+    {
+        "id": 9,
+        "verification": false,
+        "tag":"Saída Geral YD1501",
+        "instrumentos":[""],
+        "nwv":["2.5kgf/cm2"]
+    },
+    {
+        "id": 10,
+        "verification": false,
+        "tag":"Temp YE1501",
+        "instrumentos":[""],
+        "nwv": ["40°C"]
+    },
+    {
+        "id": 11,
+        "verification": false,
+        "tag":"Temp YE1502",
+        "instrumentos":[""],
+        "nwv": ["40°C"]
+    },
+    {
+        "id": 12,
+        "verification": false,
+        "tag":"P405",
+        "instrumentos":[""],
+        "nwv": ["1.2kgf/cm2"]
+    },
+    {
+        "id": 13,
+        "verification": false,
+        "tag":"P406",
+        "instrumentos":[""],
+        "nwv": ["1.2kgf/cm2"]
+    },
+    {
+        "id": 14,
+        "verification": false,
+        "tag":"YC1505",
+        "instrumentos":["-"],
+        "nwv": ["-"]
+    },
+    {
+        "id": 15,
+        "verification": false,
+        "tag":"YTQ7004",
+        "instrumentos":[""],
+        "nwv": ["0 - 93cm"]
+    },
+    {
+        "id": 16,
+        "verification": true,
+        "tag":"YC1502",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 17,
+        "verification": true,
+        "tag":"YC1503",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 18,
+        "verification": true,
+        "tag":"YC1504",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 19,
+        "verification": true,
+        "tag":"YC1501",
+        "instrumentos":["Normal", "Baixo", "Completado", "Requisição"],
+        "nwv": ["-", "-", "-", "-"]
+    },
+    {
+        "id": 20,
+        "verification": true,
+        "tag":"Filtro Secador YME1504",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 21,
+        "verification": true,
+        "tag":"YC1501",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 22,
+        "verification": true,
+        "tag":"YD1502",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 23,
+        "verification": true,
+        "tag":"YD1501",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    },
+    {
+        "id": 24,
+        "verification": true,
+        "tag":"YF7001",
+        "instrumentos":["Ok", "Não ok"],
+        "nwv": ["-", "-"]
+    }
+]
